@@ -1,2 +1,3 @@
 # matematikblog
 matematik için yazdığım blog
+Matematik, en önemli doğa bilimidir. Evreni tanımaya ve diğer tüm bilim dallarını öğrenmeye yardımcı olan bu bilim dalı, tabiki veri biliminde de öncüdür. Bize küçüklüğümüzden beri öğretilen matematik, sevilip öğrenildiği takdirde insanı çok tatmin eden bir hal alır. Öğrenme psikolojisinin insana çok iyi geldiği aşikardır. Matematik ile Veri Bilimine birlikte çalışıp kazandığım öğrenme hissi beni çok rahatlattı ve huzur verdi. Umarım bu yolculukta diğer tüm derslerde de bu hazzı alırım. Bu bölümü şimdilik geçtim ve dönüp tekrar tekrar bakacağım. Teşekkür ederim Patika 
